@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# Court Scoreboard  -  v1  (2026-07-20)
+#
+# The page that links to this manifest is cached automatically, so it is
+# not listed here on purpose: that keeps things working even if you rename
+# the HTML file. This app has no other files to cache.
+#
+# TO PUSH AN UPDATE: change the version/date on the line above, commit, then
+# open the page online TWICE (first load fetches the new copy in the
+# background, second load switches to it).
+
+NETWORK:
+*
